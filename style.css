@@ -205,6 +205,12 @@ nav ul li a:hover::after {
 }
 
 #sobre .image {
+    background-image: url('assets/dj-franko.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#sobre .image {
     flex: 1;
     height: 400px;
     background-color: var(--light-gray);
